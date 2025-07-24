@@ -1,0 +1,5 @@
+FastAPI
+pandas
+python-binance
+uvicorn
+python-dotenv
